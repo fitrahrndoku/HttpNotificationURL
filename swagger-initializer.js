@@ -3,7 +3,7 @@ window.onload = function() {
 
   // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: "https://github.com/fitrahrndoku/HttpNotificationURL/main/HttpNotification%20Non%20SNAP.json",
+    url: "HttpNotification_Non_SNAP.json",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
